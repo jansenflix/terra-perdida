@@ -16,7 +16,8 @@ h2{
     
     padding: 0 15px;
     height: 60px;
-    color: rgb(28,28,28);
+    color: rgb(245,245,245);
+    background-color:#1C1C1C;
    
    
    
@@ -159,7 +160,7 @@ h1{
     padding: 8px;
     left: 30px;
     margin-top: 22px;
-    background-color: rgba(81, 81, 238, 0.878);
+    background-color: rgba(28,28,28);
 
     
 }
